@@ -17,9 +17,9 @@ public class Main {
 }
 
 class Present {
-    private int width;
-    private int height;
-    private int length;
+     int width;
+     int height;
+     int length;
 
     public Present(int width, int height, int length) {
         this.width = width;
